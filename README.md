@@ -1,6 +1,6 @@
 # Project Name
 
-[![codecov](https://codecov.io/gh/yiming-tang-cs/githubActionsDemo/graph/badge.svg?token=BJOQ2SEZOQ)](https://codecov.io/gh/yiming-tang-cs/githubActionsDemo)  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![codecov](https://codecov.io/gh/yiming-tang-cs/githubActionsDemo/graph/badge.svg?token=BJOQ2SEZOQ)](https://codecov.io/gh/yiming-tang-cs/githubActionsDemo)  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=yiming-tang-cs_githubActionsDemo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=yiming-tang-cs_githubActionsDemo)
 
 [Project description]
 
