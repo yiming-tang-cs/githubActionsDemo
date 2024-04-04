@@ -7,7 +7,7 @@
 
 ## Team Information
 * Team name: TEAMNAME
-* Team members
+* Team members:
   * MEMBER1 (github account 1)
   * MEMBER2 (github account 2)
   * MEMBER3 (github account 3)
