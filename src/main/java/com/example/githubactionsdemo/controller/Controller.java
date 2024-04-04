@@ -7,6 +7,6 @@ public class Controller {
 
     @GetMapping("")
     public String welcome(){
-        return "welcome";
+        return "welcome to my project";
     }
 }
